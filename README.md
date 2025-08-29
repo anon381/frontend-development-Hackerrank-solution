@@ -8,7 +8,7 @@
 
 ## Application Demo:
 
-![](https://hrcdn.net/s3_pub/istreet-assets/Ec4MutitbCNS49ysm30RWw/text-append.gif)
+
 
 ## Functionality Requirements
 
