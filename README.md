@@ -28,7 +28,6 @@ The following data-testid attributes are required in the component for the tests
 
 - The final appended text label: `final-text`
 - The div containing first TextField component: `first-text`
-- The div containing second TextField component: `second-text`
 - Inside the TextField component:
     - label element: `label`
     - input element: `input`
