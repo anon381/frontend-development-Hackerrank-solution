@@ -32,10 +32,8 @@ The following data-testid attributes are required in the component for the tests
     - label element: `label`
     - input element: `input`
 
-## Project Specifications
 
-**Read Only Files**
-- src/App.test.js
+
 
 **Commands**
 - run: 
